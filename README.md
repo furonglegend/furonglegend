@@ -17,7 +17,7 @@
 ### ​**Beijing Jiaotong University**  
 *BSc in E-commerce*  
 **Jul 2017 - Jul 2021**  
-Related courses: Data structure, Web page and web programming technology, Mobile commerce application development, Object-oriented programming, Database principle and data warehouse technology, operating system, E-commerce system and design 
+- Related courses: Data structure, Web page and web programming technology, Mobile commerce application development, Object-oriented programming, Database principle and data warehouse technology, operating system, E-commerce system and design 
 
 # 🏆 Honors & Awards
 
