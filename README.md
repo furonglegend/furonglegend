@@ -19,29 +19,27 @@
 **Jul 2017 - Jul 2021**  
 Related courses: Data structure, Web page and web programming technology, Mobile commerce application development, Object-oriented programming, Database principle and data warehouse technology, operating system, E-commerce system and design 
 
-## 🏆 Honors & Awards
+# 🏆 Honors & Awards
 
-- ​**National Level**
-**  
--In 2021, the second prize in the 3rd "Transportation · Future" National College Students’ Science and Technology Innovation Works Competition.
--In 2019, the National College Students’ Innovation and Entrepreneurship Training Program.
--In 2019, the S award in the US Mathematical Modeling Competition and the National Mathematical Modeling Competition.
+## **National Level**
+- In 2021, the second prize in the 3rd "Transportation · Future" National College Students’ Science and Technology Innovation Works Competition.
+- In 2019, the National College Students’ Innovation and Entrepreneurship Training Program.
+- In 2019, the S award in the US Mathematical Modeling Competition and the National Mathematical Modeling Competition.
 
-- ​**Regional Level**  
--In 2024, the Excellent Thinking Award in the 4th Guangdong - Hong Kong - Macao Greater Bay Area College Students’ Public Governance Data Analysis
-Competition.
--In 2024, entered the final of the Huawei Macao Region ICT Competition Cloud Track (Cloud, Big Data, AI).
--In 2019, the third prize in the Beijing Transportation Technology Competition.
--In 2019, the second prize in the Beijing Municipal E - commerce "Innovation, Creativity and Entrepreneurship" Challenge.
+## **Regional Level**
+- In 2024, the Excellent Thinking Award in the 4th Guangdong - Hong Kong - Macao Greater Bay Area College Students’ Public Governance Data Analysis Competition.
+- In 2024, entered the final of the Huawei Macao Region ICT Competition Cloud Track (Cloud, Big Data, AI).
+- In 2019, the third prize in the Beijing Transportation Technology Competition.
+- In 2019, the second prize in the Beijing Municipal E - commerce "Innovation, Creativity and Entrepreneurship" Challenge.
 
-- ​**University Level**  
--In 2024, the first prize in the CFA Institute Hong Kong Research Challenge University of Macau Campus Competition.
--In 2019, the third - class scholarship from Beijing Jiaotong University.
--In 2019, the third prize in the Beijing Jiaotong University "Internet Plus" Competition.
--In 2019, the second prize in the Beijing Jiaotong University Triple Innovation Competition.
--In 2019, the second prize in the Beijing Jiaotong University Robot Design Competition.
--In 2019, the university - level College Students’ Innovation and Entrepreneurship Training Program.
--In 2019, the third prize in the Beijing Jiaotong University Mathematical Modeling Competition.
+## **University Level**
+- In 2024, the first prize in the CFA Institute Hong Kong Research Challenge University of Macau Campus Competition.
+- In 2019, the third - class scholarship from Beijing Jiaotong University.
+- In 2019, the third prize in the Beijing Jiaotong University "Internet Plus" Competition.
+- In 2019, the second prize in the Beijing Jiaotong University Triple Innovation Competition.
+- In 2019, the second prize in the Beijing Jiaotong University Robot Design Competition.
+- In 2019, the university - level College Students’ Innovation and Entrepreneurship Training Program.
+- In 2019, the third prize in the Beijing Jiaotong University Mathematical Modeling Competition.
 
 # 🔬 Research Projects
 
