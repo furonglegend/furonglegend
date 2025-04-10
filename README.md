@@ -1,6 +1,6 @@
 # Fu Rong
 
-**Artificial Intelligence Researcher | Master's Candidate @ University of Macau**
+**Artificial Intelligence Researcher | Master's on the @ University of Macau**
 
 [![Email](https://img.shields.io/badge/Email-mc466603@um.edu.mo-red?style=flat&logo=gmail)](mailto:mc466603@um.edu.mo)
 [![Location](https://img.shields.io/badge/Location-Macau,%20China-blue?style=flat&logo=map)](https://www.google.com/maps/place/Macau)
@@ -22,7 +22,8 @@ Related courses: Data structure  Web page and web programming technology  Mobile
 
 ## 🏆 Honors & Awards
 
-- ​**National Level**  
+- ​**National Level
+**  
 -In 2021, the second prize in the 3rd "Transportation · Future" National College Students’ Science and Technology Innovation Works Competition.
 -In 2019, the National College Students’ Innovation and Entrepreneurship Training Program.
 -In 2019, the S award in the US Mathematical Modeling Competition and the National Mathematical Modeling Competition.
