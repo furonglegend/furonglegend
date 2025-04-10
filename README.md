@@ -69,14 +69,37 @@ Competition.
 
 ## 💻 Technical Skills
 
--Skills: 
-Programming Languages: JavaScript, Java, Python, C language development, C++, SQL, R language, Matlab programming. 
-Development Tools and Frameworks: Web development, Android app development, artificial intelligence application frameworks, big data development, mini - program development.
-Data Analysis and Processing: SPSS, Tableau, Power BI, data processing and analysis. 
-Artificial Intelligence and Machine Learning: Machine learning, deep learning, reinforcement learning, natural language processing, computer vision.
-Software and Tools: Xmind, MindMaster, ProcessOn, Axure, Moxiao, Adobe series software, Visio, Word, Excel, PowerPoint, docker, spark. Project Management and Design: Project management, product design, interaction design, product architecture design, product process design. Others: Arcgis, Supply Chain Guru, CAD.
--Languages: Mandarin, English（CET-6), TOEFL iBT
--Interests: Chess, badminton, programming, table tennis, sprint
+### Programming & Development
+**Languages**  
+`JavaScript` `Java` `Python` `C` `C++` `SQL` `R` `MATLAB`
+
+**Frameworks & Tools**  
+`Web Development` `Android Development` `Mini Programs` `Docker` `Spark`  
+`AI Frameworks` `Big Data Pipelines` `Supply Chain Guru` `ArcGIS` `CAD`
+
+### AI & Data Science
+**Core Competencies**  
+`Machine Learning` `Deep Learning` `Reinforcement Learning`  
+`Natural Language Processing` `Computer Vision` `Stable Diffusion`
+
+**Data Tools**  
+`Tableau` `Power BI` `SPSS` `Pandas` `NumPy`  
+`Data Visualization` `Statistical Analysis`
+
+### Design & Product
+**Product Development**  
+`Product Architecture` `UX Design` `Process Design`  
+`Axure` `Adobe Suite` `Visio`
+
+**Project Management**  
+`Agile Methodology` `XMind` `MindMaster` `ProcessOn` `Miro`
+
+### Languages
+`Mandarin` (Native)  
+`English` ★★★★★ (**CET-6** | ​**TOEFL iBT**)
+
+### Interests
+♟️ Chess | 🏸 Badminton | 💻 Programming | 🏓 Table Tennis | 🏃 Sprint
 
 ## 📚 Publications & IP
 
