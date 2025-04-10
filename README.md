@@ -86,13 +86,3 @@ Software and Tools: Xmind, MindMaster, ProcessOn, Axure, Moxiao, Adobe series so
 - ​**Software Copyright**  
   *High-speed rail late prediction and perimeter intrusion detection assistance system*  
   
-
-
-
-<div align="center">
-  
-[![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat)](https://github.com/yourusername)
-[![Citations](https://img.shields.io/badge/Google_Scholar-25+-blue?logo=googlescholar)](https://scholar.google.com/citations?user=ABCD123)
-[![Latest PDF](https://img.shields.io/badge/Download_CV-PDF-red?style=flat&logo=adobeacrobatreader)](files/cv.pdf)
-
-</div>
