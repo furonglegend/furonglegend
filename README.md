@@ -11,11 +11,11 @@
 
 ### ​**University of Macau**  
 *MSc in Artificial Intelligence Applications*  
-**Jul 2024 - Jun 2027 (Expected)**  
+**Jul 2024 - Jun 2026 (Expected)**  
 - Research Areas: Reinforcement Learning, LLM Prompt Engineering, Stable Diffusion Models, Deep learning, machine learning, Artificial Intelligence application, finance and economics
 
 ### ​**Beijing Jiaotong University**  
-*BSc in E-Business*  
+*BSc in E-commerce*  
 **Jul 2017 - Jul 2021**  
 Related courses: Data structure, Web page and web programming technology, Mobile commerce application development, Object-oriented programming, Database principle and data warehouse technology, operating system, E-commerce system and design 
 
