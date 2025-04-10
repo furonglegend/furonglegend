@@ -22,7 +22,7 @@ Related courses: Data structure  Web page and web programming technology  Mobile
 
 ## 🏆 Honors & Awards
 
-- ​**National Level
+- ​**National Level**
 **  
 -In 2021, the second prize in the 3rd "Transportation · Future" National College Students’ Science and Technology Innovation Works Competition.
 -In 2019, the National College Students’ Innovation and Entrepreneurship Training Program.
@@ -45,26 +45,26 @@ Competition.
 -In 2019, the third prize in the Beijing Jiaotong University Mathematical Modeling Competition.
 
 ## 🔬 Research Projects
--Research Assistant for Reinforcement Learning and AI Large - model
--Prompt Engineering and Automated Evaluation for Enhancing Large Language Models Team Leader
--Comparison and Analysis of Stable Diffusion Models and Advanced Representation Learning for Person Re - identification
--IntelliTrade Pro - Stock Market Analysis and Strategy Optimization Framework
--Elderly Fall Detection System Based on Machine Learning
--Intelligent Tumor Analysis Framework Development
--Inter - provincial Carbon Emissions Analysis and Policy Insights in China
--Research on Donation Patterns of Republican Candidates
--Natural Language Processing and Sentiment Analysis
--Passenger Flow Control in Metro Stations Based on Reinforcement Learning
--High - Speed Railway Delay Time Prediction Based on the GRU - Attention Model
--Development of SQL teaching website
--Software development for the aged
--Website development
--Business data analysis
--User Interface Design Project
--E-commerce system design and analysis project
--E-commerce Economic Case Analysis and Marketing Management Plan Design
--College Students' innovation and Entrepreneurship Project
--Figure landscape architecture vector map exchange platform
+**-Research Assistant for Reinforcement Learning and AI Large - model**
+**-Prompt Engineering and Automated Evaluation for Enhancing Large Language Models Team Leader**
+**-Comparison and Analysis of Stable Diffusion Models and Advanced Representation Learning for Person Re - identification**
+**-IntelliTrade Pro - Stock Market Analysis and Strategy Optimization Framework**
+**-Elderly Fall Detection System Based on Machine Learning**
+**-Intelligent Tumor Analysis Framework Development**
+**-Inter - provincial Carbon Emissions Analysis and Policy Insights in China**
+**-Research on Donation Patterns of Republican Candidates**
+**-Natural Language Processing and Sentiment Analysis**
+**-Passenger Flow Control in Metro Stations Based on Reinforcement Learning**
+**-High - Speed Railway Delay Time Prediction Based on the GRU - Attention Model**
+**-Development of SQL teaching website**
+**-Software development for the aged**
+**-Website development**
+**-Business data analysis**
+**-User Interface Design Project**
+**-E-commerce system design and analysis project**
+**-E-commerce Economic Case Analysis and Marketing Management Plan Design**
+**-College Students' innovation and Entrepreneurship Project**
+**-Figure landscape architecture vector map exchange platform**
 
 
 ## 💻 Technical Skills
