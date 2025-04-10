@@ -6,7 +6,6 @@
 [![Location](https://img.shields.io/badge/Location-Macau,%20China-blue?style=flat&logo=map)](https://www.google.com/maps/place/Macau)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github)](https://github.com/furonglegend)
 
-![Header Image](images/header-bg.jpg)
 
 ## 🎓 Education
 
