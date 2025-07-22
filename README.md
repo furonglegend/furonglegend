@@ -101,6 +101,11 @@
 
 ## 📚 Publications & IP
 
+- **Conference Paper**  
+  *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching: https://openreview.net/forum?id=SXKKgZYbc0&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2025%2FWorkshop%2FUAVM%2FAuthors%23your-submissions))"*  
+  ACM MM Workshop | Accepted for UAVM 2025
+
+
 - ​**Conference Paper**  
   *"Target Detection based on K-means Algorithm: https://www.clausiuspress.com/conferences/ACSS/ESAC%202020/ESAC2020042.pdf"*  
   ISTP Indexed | Presented at ESAC 2020
