@@ -2,7 +2,8 @@
 
 **Artificial Intelligence Researcher | Master's on the @ University of Macau**
 
-[![Email](https://img.shields.io/badge/Email-mc466603@um.edu.mo-red?style=flat&logo=gmail)](mailto:mc466603@um.edu.mo)
+[![Email](https://img.shields.io/badge/Email-mc466603@um.edu.mo-red?style=flat&logo=gmail)
+](mailto:mc466603@um.edu.mo)
 [![Location](https://img.shields.io/badge/Location-Macau,%20China-blue?style=flat&logo=map)](https://www.google.com/maps/place/Macau)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github)](https://github.com/furonglegend)
 
@@ -24,7 +25,7 @@
 ## **National Level**
 - In 2021, the second prize in the 3rd "Transportation · Future" National College Students’ Science and Technology Innovation Works Competition.
 - In 2019, the National College Students’ Innovation and Entrepreneurship Training Program.
-- In 2019, the S award in the US Mathematical Modeling Competition and the National Mathematical Modeling Competition.
+- In 2019, the award in the US Mathematical Modeling Competition and the National Mathematical Modeling Competition.
 
 ## **Regional Level**
 - In 2024, the Excellent Thinking Award in the 4th Guangdong - Hong Kong - Macao Greater Bay Area College Students’ Public Governance Data Analysis Competition.
