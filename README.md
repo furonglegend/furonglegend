@@ -7,7 +7,8 @@
 [![Location](https://img.shields.io/badge/Location-Macau,%20China-blue?style=flat&logo=map)](https://www.google.com/maps/place/Macau)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github)](https://github.com/furonglegend)
 
-
+- 🤝 **Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603@um.edu.mo]
+  
 ## 🎓 Education
 
 ### ​**University of Macau**  
@@ -113,4 +114,11 @@
 
 - ​**Software Copyright**  
   *High-speed rail late prediction and perimeter intrusion detection assistance system*  
-  
+
+  ## 👨‍💻 Technical Activities
+
+  ### 🧾 Reviewer for Conferences
+- **AAAI Conference on Artificial Intelligence (AAAI)** | 2025-Present
+- **ACM International Conference on Multimedia (ACMM)** | 2025-Present
+
+
