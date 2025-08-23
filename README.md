@@ -1,4 +1,4 @@
-# Fu Rong
+# Rong Fu 
 
 **Artificial Intelligence Researcher | Master's on the @ University of Macau**
 
