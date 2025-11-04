@@ -104,7 +104,7 @@
 ## 📚 Publications & IP
 
 - **Conference Paper**  
-  *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching"*  
+  *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching(https://dl.acm.org/doi/10.1145/3728482.3757381)"*  
   ACM MM Workshop | Accepted for UAVM 2025
 
 
