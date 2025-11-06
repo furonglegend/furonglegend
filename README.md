@@ -122,6 +122,7 @@
 - **ACM International Conference on Multimedia (ACMM)** | 2025-Present
 - **International Conference on Open and Smart Computing and Intelligent Systems (ICOSCI)** | 2025-Present
 - **THE ACM WEB CONFERENCE(WWW)** | 2025-Present
+-  **IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)** | 2025-Present
 
 
 
