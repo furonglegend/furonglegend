@@ -2,11 +2,6 @@
 
 **Artificial Intelligence Researcher | Master's on the @ University of Macau**
 
-[![Email](https://img.shields.io/badge/Email-mc466603@um.edu.mo-red?style=flat&logo=gmail)
-](mailto:mc466603@um.edu.mo)
-[![Location](https://img.shields.io/badge/Location-Macau,%20China-blue?style=flat&logo=map)](https://www.google.com/maps/place/Macau)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github)](https://github.com/furonglegend)
-
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603@um.edu.mo]
   
 ## 🎓 Education
