@@ -109,7 +109,7 @@
   
 - ​**Conference Paper**  
   *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
-  ISTP Indexed | Presented at ESAC 2020
+
 - ​**Software Copyright**  
   *High-speed rail late prediction and perimeter intrusion detection assistance system*  
 
