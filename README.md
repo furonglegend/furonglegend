@@ -99,7 +99,9 @@
 ♟️ Chess | 🏸 Badminton | 💻 Programming | 🏓 Table Tennis | 🏃 Sprint
 
 ## 📚 Publications & IP
-
+- **Conference Paper**  
+*S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering*
+THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026 
 - **Conference Paper**  
   *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching(https://dl.acm.org/doi/10.1145/3728482.3757381)"*  
   ACM MM Workshop | Accepted for UAVM 2025
