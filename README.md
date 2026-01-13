@@ -120,7 +120,7 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026
 - ​**Conference Paper**  
 *Final Happiness: What Intelligent User Interfaces Can Do for The Lonely Dying(https://arxiv.org/abs/2511.14164)*
 
-- ​**Software Copyright**
+
   
 
   ## 👨‍💻 Technical Activities
