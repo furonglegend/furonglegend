@@ -105,8 +105,10 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026
 - **Conference Paper**  
   *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching(https://dl.acm.org/doi/10.1145/3728482.3757381)"*  
   ACM MM Workshop | Accepted for UAVM 2025
-
-
+  
+- ​**Conference Paper**  
+  *LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs(https://arxiv.org/pdf/2512.20105)*
+  
 - ​**Conference Paper**  
   *"Target Detection based on K-means Algorithm: https://www.clausiuspress.com/conferences/ACSS/ESAC%202020/ESAC2020042.pdf"*  
   ISTP Indexed | Presented at ESAC 2020
