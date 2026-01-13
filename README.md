@@ -117,7 +117,7 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026
 - ​**Software Copyright**  
   *High-speed rail late prediction and perimeter intrusion detection assistance system*
   
-- ​**Software Copyright**   
+- ​**Conference Paper**  
 *Final Happiness: What Intelligent User Interfaces Can Do for The Lonely Dying(https://arxiv.org/abs/2511.14164)*
 
 - ​**Software Copyright**
