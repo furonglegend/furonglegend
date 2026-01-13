@@ -111,7 +111,10 @@
   *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
 
 - ​**Software Copyright**  
-  *High-speed rail late prediction and perimeter intrusion detection assistance system*  
+  *High-speed rail late prediction and perimeter intrusion detection assistance system*
+
+- ​**Software Copyright**
+  *Final Happiness: What Intelligent User Interfaces Can Do for The Lonely Dying(https://arxiv.org/abs/2511.14164)*
 
   ## 👨‍💻 Technical Activities
 
