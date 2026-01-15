@@ -4,7 +4,7 @@
 
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
-**Congratulations！！！ THE ACM WEB CONFERENCE (CCFA) has accepted my first paper- S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**
+**Congratulations！！！ THE ACM WEB CONFERENCE (CCFA) has accepted my first author- S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**
   
 ## 🎓 Education
 
