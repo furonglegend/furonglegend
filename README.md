@@ -124,7 +124,7 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026
 
 - ​**Conference Paper**  
 *Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
-### (https://huggingface.co/papers/2601.07641)*
+**(https://huggingface.co/papers/2601.07641)** *
 
   ## 👨‍💻 Technical Activities
 
