@@ -5,6 +5,9 @@
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
 **Congratulations！！！ THE ACM WEB CONFERENCE (CCFA) has accepted my first author paper- S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**
+**Congratulations！！！ IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP) I have accepted two of my papers!!!**
+ *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
+ *MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION*
   
 ## 🎓 Education
 
@@ -105,6 +108,11 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026
 - **Conference Paper**  
   *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching(https://dl.acm.org/doi/10.1145/3728482.3757381)"*  
   ACM MM Workshop | Accepted for UAVM 2025
+
+- ​**Conference Paper**  
+  *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
+ **Accepted for IEEE icassp 26**
+  
   
 - ​**Conference Paper**  
   *LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs(https://arxiv.org/pdf/2512.20105)*
@@ -112,10 +120,8 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for WWW 2026
 - ​**Conference Paper**  
   *"Target Detection based on K-means Algorithm: https://www.clausiuspress.com/conferences/ACSS/ESAC%202020/ESAC2020042.pdf"*  
   ISTP Indexed | Presented at ESAC 2020
-  
-- ​**Conference Paper**  
-  *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
 
+  
 - ​**Software Copyright**  
   *High-speed rail late prediction and perimeter intrusion detection assistance system*
   
