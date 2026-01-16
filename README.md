@@ -5,7 +5,7 @@
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
 **Congratulations！！！ THE ACM WEB CONFERENCE (CCFA) has accepted my first author paper- S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**
-**Congratulations！！！ IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP) I have accepted two of my papers!!!**
+**Congratulations！！！ IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)（CCFB） I have accepted two of my papers!!!**
  *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
  *MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION*
   
