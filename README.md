@@ -117,11 +117,11 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
  **Accepted for IEEE icassp 26**
   
 - ​**Conference Paper** 
-*MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)*
+  *"MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)"*
  **Accepted for IEEE icassp 26**
   
 - ​**Conference Paper**  
-  *LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs(https://arxiv.org/pdf/2512.20105)*
+  *"LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs(https://arxiv.org/pdf/2512.20105)"*
   
 - ​**Conference Paper**  
   *"Target Detection based on K-means Algorithm: https://www.clausiuspress.com/conferences/ACSS/ESAC%202020/ESAC2020042.pdf"*  
