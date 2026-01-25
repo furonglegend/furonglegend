@@ -115,11 +115,11 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 - ​**Conference Paper**  
   *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
  **Accepted for IEEE icassp 26**
-  
-- ​**Conference Paper** 
-  *"MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)"*
+
+ - ​**Conference Paper**  
+  *"MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)"*  
  **Accepted for IEEE icassp 26**
-  
+   
 - ​**Conference Paper**  
   *"LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs(https://arxiv.org/pdf/2512.20105)"*
   
