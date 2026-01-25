@@ -9,7 +9,7 @@
 **Congratulations！！！ IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)（CCFB） I have accepted two of my papers!!!**
  **"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"**
  
- **MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION**
+ **MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)**
   
 ## 🎓 Education
 
@@ -133,6 +133,9 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 - ​**Conference Paper**  
 *Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
 **(https://huggingface.co/papers/2601.07641)** *
+
+- ​**Conference Paper** 
+*MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)*
 
   ## 👨‍💻 Technical Activities
 
