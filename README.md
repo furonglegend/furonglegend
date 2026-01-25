@@ -107,6 +107,7 @@
 - **Conference Paper**  
 *S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering*
 THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
+
 - **Conference Paper**  
   *"Adaptive Multi-Backbone Fusion for UAV-Centric Cross-View Geo-Localization with Partial Street–Satellite Matching(https://dl.acm.org/doi/10.1145/3728482.3757381)"*  
   ACM MM Workshop | Accepted for UAVM 2025
@@ -114,7 +115,10 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 - ​**Conference Paper**  
   *"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"*  
  **Accepted for IEEE icassp 26**
-  
+
+  - ​**Conference Paper** 
+*MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)*
+  **Accepted for IEEE icassp 26**
   
 - ​**Conference Paper**  
   *LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs(https://arxiv.org/pdf/2512.20105)*
@@ -134,8 +138,7 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 *Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
 **(https://huggingface.co/papers/2601.07641)** *
 
-- ​**Conference Paper** 
-*MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)*
+
 
   ## 👨‍💻 Technical Activities
 
