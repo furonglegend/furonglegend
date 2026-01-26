@@ -149,8 +149,8 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 - **THE ACM WEB CONFERENCE(WWW)** | 2025-Present
 - **IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)** | 2025-Present
 -  **IEEE International Conference on Multimedia and Expo(ICME)** | 2025-Present
--  **The Association for Computational Linguistics(ACL)** | 2025-Present
--  **International Conference on Machine Learning** | 2025-Present
+-  **The Association for Computational Linguistics(ACL)** | 2026-Present
+-  **International Conference on Machine Learning** | 2026-Present
   ### 🧑‍🔬 Research Assistant(State Key Laboratory) & Teaching assistant
 
 
