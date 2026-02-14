@@ -134,10 +134,6 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 - ​**Conference Paper**  
 *Final Happiness: What Intelligent User Interfaces Can Do for The Lonely Dying(https://arxiv.org/abs/2511.14164)*
 
-- ​**Conference Paper**  
-*Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
-**(https://huggingface.co/papers/2601.07641)***
-
 - **Conference Paper**
  *ASA: Training-Free Representation Engineering for Tool-Calling Agents(https://arxiv.org/abs/2602.04935)*
 
@@ -149,6 +145,12 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 
 - **Conference Paper**
 *zkCraft: Prompt-Guided LLM as a Zero-Shot Mutation Pattern Oracle for TCCT-Powered ZK Fuzzing(https://arxiv.org/abs/2602.00667)*
+
+- ​**Conference Paper**  
+*Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
+**(https://huggingface.co/papers/2601.07641)***
+
+
 
 
   ## 👨‍💻 Technical Activities
