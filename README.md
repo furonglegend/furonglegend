@@ -136,10 +136,10 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 
 - ​**Conference Paper**  
 *Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
-**(https://huggingface.co/papers/2601.07641)** *
+**(https://huggingface.co/papers/2601.07641)***
 
 - **Conference Paper**
-*ASA: Training-Free Representation Engineering for Tool-Calling Agents(https://arxiv.org/abs/2602.04935)*
+ *ASA: Training-Free Representation Engineering for Tool-Calling Agents(https://arxiv.org/abs/2602.04935)*
 
 - **Conference Paper**
 *NeuroPareto: Calibrated Acquisition for Costly Many-Goal Search in Vast Parameter Spaces(https://arxiv.org/abs/2602.03901)*
