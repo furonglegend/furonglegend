@@ -129,26 +129,26 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 
   
 - ​**Software Copyright**  
-  *High-speed rail late prediction and perimeter intrusion detection assistance system*
+  *"High-speed rail late prediction and perimeter intrusion detection assistance system"*
   
 - ​**Conference Paper**  
-*Final Happiness: What Intelligent User Interfaces Can Do for The Lonely Dying(https://arxiv.org/abs/2511.14164)*
+*"Final Happiness: What Intelligent User Interfaces Can Do for The Lonely Dying(https://arxiv.org/abs/2511.14164)"*
 
 - **Conference Paper**
- *ASA: Training-Free Representation Engineering for Tool-Calling Agents(https://arxiv.org/abs/2602.04935)*
+ *"ASA: Training-Free Representation Engineering for Tool-Calling Agents(https://arxiv.org/abs/2602.04935)"*
 
 - **Conference Paper**
-*NeuroPareto: Calibrated Acquisition for Costly Many-Goal Search in Vast Parameter Spaces(https://arxiv.org/abs/2602.03901)*
+*"NeuroPareto: Calibrated Acquisition for Costly Many-Goal Search in Vast Parameter Spaces(https://arxiv.org/abs/2602.03901)"*
 
 - **Conference Paper**
-*SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes(https://arxiv.org/abs/2602.01051)*
+*"SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes(https://arxiv.org/abs/2602.01051)"*
 
 - **Conference Paper**
-*zkCraft: Prompt-Guided LLM as a Zero-Shot Mutation Pattern Oracle for TCCT-Powered ZK Fuzzing(https://arxiv.org/abs/2602.00667)*
+*"zkCraft: Prompt-Guided LLM as a Zero-Shot Mutation Pattern Oracle for TCCT-Powered ZK Fuzzing(https://arxiv.org/abs/2602.00667)"*
 
 - ​**Conference Paper**  
-*Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
-**(https://huggingface.co/papers/2601.07641)***
+*"Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning(https://arxiv.org/abs/2601.07641)
+(https://huggingface.co/papers/2601.07641)"*
 
 
 
