@@ -165,6 +165,7 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 -  **The Association for Computational Linguistics(ACL)** | 2026-Present
 -  **ACM SIGIR Conference** | 2026-Present
 -  **International Conference on Machine Learning(ICML)** | 2026-Present
+-  **ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD)** | 2026-Present
   ### 🧑‍🔬 Research Assistant(State Key Laboratory) & Teaching assistant
 
 
