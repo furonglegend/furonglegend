@@ -7,7 +7,7 @@
 **Congratulations！！！ THE ACM WEB CONFERENCE (CCFA) has accepted my first author paper- S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**
 
 **Congratulations！！！ IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)（CCFB） I have accepted two of my papers!!!**
- **"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"(first author)**
+ **"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)" (first author)**
  
  **MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)**
 
