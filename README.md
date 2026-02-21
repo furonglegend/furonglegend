@@ -10,6 +10,8 @@
  **"FinSentLLM: Multi-LLM and Structured Semantic Signals for Enhanced Financial Sentiment Forecasting(https://arxiv.org/pdf/2509.12638)"**
  
  **MULTIMODAL MULTI-AGENT EMPOWERED LEGAL JUDGMENT PREDICTION(https://arxiv.org/abs/2601.12815)**
+
+ **Congratulations!!! IEEE Conference on Computer Vision and Pattern Recognition (CVPR)  have accepted my two papers (Tri Subspace Dissentance for Multimodal Sentiment Analysis (Position 3) and CLCR: Cross-Level Semantic Collaborative Representation for Multimodal Learning）(Position 5)!!!**
   
 ## 🎓 Education
 
