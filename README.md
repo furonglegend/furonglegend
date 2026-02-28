@@ -173,4 +173,10 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 -  **the IEEE Robotics and Automation Letters** | 2026-Present
   ### 🧑‍🔬 Research Assistant(State Key Laboratory) & Teaching assistant
 
+  ### Professional Memberships
+
+- **IEEE Member**
+- **IEEE Signal Processing Society Member**
+- **ACM Member**
+
 
