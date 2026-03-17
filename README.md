@@ -4,7 +4,7 @@
 
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
-****Congratulations！！！ The IEEE International Conference on Multimedia and Expo has accepted my two papers: Modal Immune: Immunity Driven Unlearning via Self Destructive Training (first author) and Draft with What the Target Knows: Hierarchical Intermediate Conditioning for Lossless VLM Acceleration（ Position 11)**
+****Congratulations！！！ The IEEE International Conference on Multimedia and Expo has accepted my two papers: ModalImmune: Immunity Driven Unlearning via Self Destructive Training (first author) and Draft with What the Target Knows: Hierarchical Intermediate Conditioning for Lossless VLM Acceleration（ Position 11)**
 
 **Congratulations！！！ THE ACM WEB CONFERENCE (CCFA) has accepted my first author paper- S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering**
 
