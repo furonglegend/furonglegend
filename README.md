@@ -4,7 +4,7 @@
 
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
-**Congratulations!!! The International Joint Conference on Neural Networks(IJCNN) has accepted my paper: MultiPress: A Multi-Agent Framework for Interpretable Multimodal News Classification  (position 3)!!!**
+**Congratulations!!! The International Joint Conference on Neural Networks(IJCNN)(CCFC) has accepted my paper: MultiPress: A Multi-Agent Framework for Interpretable Multimodal News Classification  (position 3)!!!**
 
 ****Congratulations！！！ The IEEE International Conference on Multimedia and Expo has accepted my two papers: ModalImmune: Immunity Driven Unlearning via Self Destructive Training (first author) and Draft with What the Target Knows: Hierarchical Intermediate Conditioning for Lossless VLM Acceleration(Position 11)**
 
