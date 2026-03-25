@@ -178,6 +178,7 @@ THE ACM WEB CONFERENCE (CCFA) | Accepted for **WWW 2026**
 -  **International Conference on Medical Image Computing and Computer Assisted Intervention(MICCAI)** | 2026-Present
    ### 🧾 Reviewer for journals
 -  **the IEEE Robotics and Automation Letters** | 2026-Present
+-  **IEEE Transactions on Artificial Intelligence** | 2026-Present
   ### 🧑‍🔬 Research Assistant(State Key Laboratory) & Teaching assistant
 
   ### Professional Memberships
