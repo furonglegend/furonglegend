@@ -4,6 +4,7 @@
 
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
+**Congratulations!!! Annual Meeting of the Association for Computational Linguistics 2026 has accepted my paper: Reinforcement Learning with Semantic Rewards Enables Low-Resource Language Expansion without Alignment Tax (position 8)!!!**
 
 **Congratulations!!! Creativity & Cognition 2026 has accepted my paper: Creating the World with Order!'': Designing Tangible Toolkit to Support Creative Expression and Wellbeing for Individuals with ASD (position 3)!!!**
 
