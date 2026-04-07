@@ -4,7 +4,7 @@
 
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
-**Congratulations!!! IEEE Transactions on Evolutionary Computation has accepted my paper: Neural Architecture Search for Generative Adversarial Networks Based on Consistency Diffusion Evolutionary Algorithm**
+**Congratulations!!! IEEE Transactions on Evolutionary Computation has accepted my paper: Neural Architecture Search for Generative Adversarial Networks Based on Consistency Diffusion Evolutionary Algorithm(first author)**
 
 **Congratulations!!! Annual Meeting of the Association for Computational Linguistics 2026(ACL) has accepted my paper: Reinforcement Learning with Semantic Rewards Enables Low-Resource Language Expansion without Alignment Tax (position 8)!!!**
 
