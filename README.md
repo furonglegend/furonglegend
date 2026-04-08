@@ -4,6 +4,8 @@
 
 - 🤝 Open to collaborative research projects and academic partnerships. Feel free to reach out: [mc46603[at] um [dot] edu [dot] mo]
 
+**Congratulations!!! CVPR 2026 TRUE-V workshop has accepted my paper:Trustworthy Active Learning via Manifold-Preserving Trajectory Sampling(position 2)**
+
 **Congratulations!!! IEEE Transactions on Evolutionary Computation has accepted my paper: TBD(first author)**
 
 **Congratulations!!! Annual Meeting of the Association for Computational Linguistics 2026(ACL) has accepted my paper: Reinforcement Learning with Semantic Rewards Enables Low-Resource Language Expansion without Alignment Tax (position 8)!!!**
