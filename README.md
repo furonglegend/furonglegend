@@ -12,7 +12,7 @@
 
 **Congratulations!!! Creativity & Cognition 2026 has accepted my paper: Creating the World with Order!'': Designing Tangible Toolkit to Support Creative Expression and Wellbeing for Individuals with ASD (position 3)!!!**
 
-**Congratulations!!! The International Joint Conference on Neural Networks(IJCNN)(CCFC) has accepted my paper: MultiPress: A Multi-Agent Framework for Interpretable Multimodal News Classification  (position 3)!!!**
+**Congratulations!!! The International Joint Conference on Neural Networks(IJCNN)(CCFC) has accepted my paper: MultiPress: A Multi-Agent Framework for Interpretable Multimodal News Classification  (position 3)(https://arxiv.org/abs/2604.03586)!!!**
 
 **Congratulations！！！ The IEEE International Conference on Multimedia and Expo has accepted my two papers: ModalImmune: Immunity Driven Unlearning via Self Destructive Training (first author)(https://arxiv.org/abs/2602.16197) and Draft with What the Target Knows: Hierarchical Intermediate Conditioning for Lossless VLM Acceleration(Position 11)**
 
